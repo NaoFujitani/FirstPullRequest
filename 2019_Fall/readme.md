@@ -58,7 +58,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Huang, Xiaoxiao
 
-- [X] Ishii, Yuri(@yuri-ishii)
+- [X] Ishii, Yuri(@yuri-ishii)  yuri_ishii@mba.berkeley.edu
 
 - [ ] Johnson, Benny
 
