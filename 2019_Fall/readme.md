@@ -50,7 +50,7 @@ nao_fujitani@berkeley.edu
 
 - [ ] Garcia, Celso
 
-- [ ] Garg, Nisha
+- [X] Garg, Nisha (@ng2217) Homework assignment done by Nao Fujitani
 
 - [ ] Greff, James
 
